@@ -1,8 +1,8 @@
 var options = {
   'specialty': [
-    "dental",
-    "cosmetics",
-    "orthopedic"
+    "Dental",
+    "Cosmetics",
+    "Orthopedic"
     ],
   'size': [
     "S",
@@ -23,18 +23,22 @@ var options = {
     '2010'
     ],
   'cooperation': [
-    'low',
-    'medium',
-    'high'
+    'Low',
+    'Medium',
+    'High'
     ],
   'boughtads': [
-    'yes',
-    'no'
+    'Yes',
+    'No'
     ],
   'circumstances': [
     "Wants you to just email",
+    "Normal",
+    "Surgeon is right here let me go get him",
     "Surgeon's hard to get a hold of",
-    "Unhappy/uncooperative",
+    "Just got burned by another marketing company",
+    "Extra good mood",
+    "Unhappy/Uncooperative",
     "Hesitant about our credentials",
     "Normal"
     ]
